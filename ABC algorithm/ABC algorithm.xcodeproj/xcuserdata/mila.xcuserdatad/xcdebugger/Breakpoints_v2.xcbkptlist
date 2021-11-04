@@ -7,17 +7,225 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "32AD4B6A-C5EB-4071-9104-DAFE0DA9FFD2"
+            uuid = "E501C856-8D65-43C5-B1BD-EA16EAF50422"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ABC algorithm/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "95"
-            endingLineNumber = "95"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
             landmarkName = "coloring(vertexes, graph)"
             landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEEC8F3A-0C59-4702-89D5-740A44BE192F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "onlookersColoring(employedVertexes, vertexes, graph, onlookersOnVertex)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0965E01A-42B3-43C3-AE75-E795F891A099"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "onlookersColoring(employedVertexes, vertexes, graph, onlookersOnVertex)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06874199-E554-49AB-8FCE-E4D3B3D4B638"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "onlookersColoring(employedVertexes, vertexes, graph, onlookersOnVertex)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A371BB42-AE74-4E53-967A-ADDFB6E1DCCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "onlookersColoring(employedVertexes, vertexes, graph, onlookersOnVertex)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB0FBA1C-D0A9-4887-88BF-7F195C052938"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "coloring(vertexes, graph)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5C4BE61-C9AF-4604-8183-CAE10B5971F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "onlookersColoring(employedVertexes, vertexes, graph, onlookersOnVertex)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6B3F122-9590-4880-ADF8-C8452D2E6A2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "setEmployedVertexes(employedVertexes, vertexes)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A6B3F122-9590-4880-ADF8-C8452D2E6A2C - c186dc52f4041a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setEmployedVertexes(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, std::__1::vector&lt;Vertex, std::__1::allocator&lt;Vertex&gt; &gt;)"
+                  moduleName = "ABC algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mila/Documents/Progs/Algorithms/ABC-algorithm-graph-coloring-/ABC%20algorithm/ABC%20algorithm/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A6B3F122-9590-4880-ADF8-C8452D2E6A2C - c186dc52f4041a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setEmployedVertexes(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, std::__1::vector&lt;Vertex, std::__1::allocator&lt;Vertex&gt; &gt;)"
+                  moduleName = "ABC algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mila/Documents/Progs/Algorithms/ABC-algorithm-graph-coloring-/ABC%20algorithm/ABC%20algorithm/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "518A8B62-DF04-45A2-8C47-3C60649FAE47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "setEmployedVertexes(employedVertexes, vertexes)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EF60FA9-BFA4-4049-9B2E-4DA67A473AC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABC algorithm/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "setEmployedVertexes(employedVertexes, vertexes)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2EF60FA9-BFA4-4049-9B2E-4DA67A473AC7 - c186dc52f4041863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setEmployedVertexes(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, std::__1::vector&lt;Vertex, std::__1::allocator&lt;Vertex&gt; &gt;)"
+                  moduleName = "ABC algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mila/Documents/Progs/Algorithms/ABC-algorithm-graph-coloring-/ABC%20algorithm/ABC%20algorithm/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "259">
+               </Location>
+               <Location
+                  uuid = "2EF60FA9-BFA4-4049-9B2E-4DA67A473AC7 - c186dc52f4041863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setEmployedVertexes(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, std::__1::vector&lt;Vertex, std::__1::allocator&lt;Vertex&gt; &gt;)"
+                  moduleName = "ABC algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mila/Documents/Progs/Algorithms/ABC-algorithm-graph-coloring-/ABC%20algorithm/ABC%20algorithm/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "319">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
