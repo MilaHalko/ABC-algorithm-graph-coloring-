@@ -96,9 +96,23 @@ int coloring(vector<Vertex> vertexes, vector<vector<bool>> graph) {
     
     // bees' allocation
     vector<int> onlookersOnVertex (EMPLOYEDBEES);
-    for (int bee = 0; bee < ONLOOKERBEES; bee++) {
-        int percent = rand() % allNectar;
-        onlookersOnVertex[beesProportion[percent]]++; // checking proportion range to get vertex number
+    if (ONLOOKERBEES - allNectar < 0) {
+        for (int bee = 0; bee < ONLOOKERBEES; bee++) {
+            do {
+                int pos = rand() % allNectar;
+                if (beesProportion[pos] != -1) {
+                    onlookersOnVertex[beesProportion[pos]]++; // checking proportion range to get vertex number
+                    beesProportion[pos] = -1;
+                    break;
+                }
+            } while (true);
+        }
+    }
+    else {
+        for (int v = 0; v < employedVertexes.size(); v++) {
+            int nectar = vertexes[employedVertexes[v]].getNectar();
+            onlookersOnVertex[v] = nectar;
+        }
     }
     
     //MILA
