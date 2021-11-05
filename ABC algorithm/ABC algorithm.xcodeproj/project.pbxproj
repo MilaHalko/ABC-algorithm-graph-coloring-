@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2113D0FA2731CD350001D55C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2113D0F92731CD350001D55C /* main.cpp */; };
+		2113D108273524100001D55C /* ABCAlgorithm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2113D106273524100001D55C /* ABCAlgorithm.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,9 @@
 /* Begin PBXFileReference section */
 		2113D0F62731CD350001D55C /* ABC algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ABC algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2113D0F92731CD350001D55C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2113D103273523AF0001D55C /* libs.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = libs.hpp; sourceTree = "<group>"; };
+		2113D106273524100001D55C /* ABCAlgorithm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ABCAlgorithm.cpp; sourceTree = "<group>"; };
+		2113D107273524100001D55C /* ABCAlgorithm.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ABCAlgorithm.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,9 @@
 			isa = PBXGroup;
 			children = (
 				2113D0F92731CD350001D55C /* main.cpp */,
+				2113D107273524100001D55C /* ABCAlgorithm.hpp */,
+				2113D106273524100001D55C /* ABCAlgorithm.cpp */,
+				2113D103273523AF0001D55C /* libs.hpp */,
 			);
 			path = "ABC algorithm";
 			sourceTree = "<group>";
@@ -118,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2113D108273524100001D55C /* ABCAlgorithm.cpp in Sources */,
 				2113D0FA2731CD350001D55C /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
