@@ -14,6 +14,8 @@ public:
     void setNectar(int nectar) {this->nectar = nectar;}
 };
 
+
+//Oh no! Where are OOP principles?
 void GraphGeneration(vector<vector<bool>> &graph);
 
 //ABC algorithm
