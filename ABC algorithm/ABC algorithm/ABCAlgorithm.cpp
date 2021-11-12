@@ -1,6 +1,11 @@
 #include "ABCAlgorithm.hpp"
+/*
+    And everything in one file...)
 
-const int VERTEXES = 250;
+*/
+
+//what about constexpr?
+const int VERTEXES = 250;//Hhhhmmmm.... CapsLock. Good-good.) 
 const int MIN_VERTEX = 2, MAX_VERTEX = 25;
 const int ITERATIONS = 1000;
       int EMPLOYEDBEES;      // get info about nectar (chose vertexes)
